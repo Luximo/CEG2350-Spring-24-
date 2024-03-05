@@ -1,0 +1,64 @@
+# Custom Software License
+
+## 1. Definitions
+- "Licensed Software" refers to the software code covered by this license.
+- "Licensee" refers to any individual or entity that wishes to use or interact with the Licensed Software.
+- "Licensor" refers to the individual or entity that holds the rights to the Licensed Software and grants the license under these terms.
+
+## 2. Grant of License
+Subject to the terms of this License, the Licensor hereby grants the Licensee a non-exclusive, non-transferable, revocable license to use the Licensed Software solely for non-commercial purposes.
+
+## 3. Restrictions
+The Licensee shall not:
+- Use the Licensed Software for any commercial purposes without the express written permission of the Licensor.
+- Modify, distribute, sublicense, or sell the Licensed Software.
+- Reverse engineer, decompile, or disassemble the Licensed Software.
+
+## 4. Permission Required
+For any use of the Licensed Software not expressly permitted by this License, the Licensee must obtain written permission from the Licensor.
+
+## 5. Legal Repercussions
+Failure to comply with the terms of this License will result in the immediate revocation of this License. Additionally, the Licensee acknowledges that unauthorized use of the Licensed Software may result in legal action being taken by the Licensor, including but not limited to claims for damages and injunctive relief.
+
+## 6. Disclaimer of Warranty
+The Licensed Software is provided "as is," without warranty of any kind, express or implied.
+
+## 7. Limitation of Liability
+In no event shall the Licensor be liable for any claim, damages, or other liability arising from the use or inability to use the Licensed Software.
+
+## 8. Governing Law
+This License shall be governed by the laws of the jurisdiction in which the Licensor resides, without regard to its conflict of law provisions.
+
+## 9. Contact Information
+For permissions or questions regarding this license, please contact the Licensor at:
+[Moses O.]
+
+---
+
+MY PROPRIETARY LICENSE
+
+Copyright (c) [2023] [Moses O]
+
+All rights reserved.
+
+Redistribution, use, modification, or copying of this software or any portion thereof is strictly prohibited without the express written permission of the copyright holder. Any unauthorized use, distribution, modification, or copying of this software or any portion thereof will be considered a violation of copyright law and may result in civil and/or criminal penalties.
+
+If you wish to use, modify, or distribute this software or any portion thereof, you must first obtain explicit written permission from the copyright holder. Failure to do so will be considered a breach of this license agreement and may result in legal action.
+
+By using, modifying, or distributing this software or any portion thereof without the express written permission of the copyright holder, you acknowledge and agree that you are doing so at your own risk and that the copyright holder shall not be held liable for any damages or losses that may arise from such unauthorized use, modification, or distribution.
+
+Legal Repercussions:
+
+Any unauthorized use, modification, or distribution of this software or any portion thereof may result in the following legal repercussions:
+
+1. Civil Penalties: The copyright holder may seek monetary damages for copyright infringement, which may include actual damages, statutory damages, and any profits realized by the infringer.
+
+2. Injunctive Relief: The copyright holder may seek a court order to prevent further unauthorized use, modification, or distribution of the software.
+
+3. Criminal Penalties: In some cases, willful copyright infringement may be considered a criminal offense and may result in fines and/or imprisonment.
+
+4. Attorney's Fees and Costs: The copyright holder may seek to recover reasonable attorney's fees and costs associated with pursuing legal action against the infringer.
+
+5. Other Remedies: The copyright holder may seek any other legal or equitable remedies available under applicable laws and regulations.
+
+By using, modifying, or distributing this software or any portion thereof without the express written permission of the copyright holder, you acknowledge and agree to be bound by the terms of this license agreement and any legal repercussions that may arise from a violation of this agreement.

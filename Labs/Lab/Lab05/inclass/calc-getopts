@@ -1,0 +1,42 @@
+#! /bin/bash
+
+printHelp() {
+	printf "Use this program to add subtract or multiply \n \
+		-a add \n \
+		-s subtract \n \
+		-m multiply \n \
+		Followed by two numbers.  Sample usage \n \
+		scriptname -a 12 2 \n"
+		
+}
+
+
+while getopts ":hasm" opt; do
+	case $opt in
+		h)
+			echo "h was given, printing help"
+			printHelp
+			exit
+			;;
+		a) 
+			echo "A for add was given"
+			break
+			;;
+		*)	
+			echo "not an option"
+			printHelp
+			exit
+			;;
+			
+	esac
+done
+
+echo "The value of OPTIND is $OPTIND"
+
+echo "args pre-shift: $@"
+shift $((OPTIND-1))
+
+echo "args POST shift $@"
+
+echo "Adding $1 and $2"
+echo "Result: " $(( $1 + $2 ))
